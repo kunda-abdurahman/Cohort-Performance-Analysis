@@ -235,12 +235,12 @@ arel-cohort7-planning-project/
       06_absence_pattern_before_dropout.sql
       07_instructor_handoff_impact.sql
       08_course_cohort_ranking.sql
-  docs/
-      (screenshots of your charts)
+
 ```
 
 SQL scripts directory: `/sql/`
 
 ## Contact
-LinkedIn:[Kunda Abdurahman]()
-GitHub:[Kunda Abdurahman]()
+LinkedIn:[Kunda Abdurahman](kundarhaman3@gmail.com)
+
+GitHub:[Kunda Abdurahman](https://github.com/kunda-abdurahman)
